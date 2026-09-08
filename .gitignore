@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+dataset_dir/
+training_dir/
+test_audio/
+temp_audio/
+
+*.ckpt
+*.onnx
+*.onnx.json
+*.pt
+*.pth
+
+.env
